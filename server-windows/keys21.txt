@@ -1,0 +1,5 @@
+anthony_clark@uh.edu fc05b234c4567df123ab1b234c4567df123abc
+jorge@uh.edu   a1b234c4567df123abc
+eva@cs.uh.edu  5672c4567df123abc54
+fatima@google.com  df123abfc05b234c4567df121b234c4567df123abc
+nancy@cs.uh.edu 567afe4533ab73ed74a55b4533ab73ed74a55b67afe4533ab73ed74a55b45223ab73ed74a55b 
